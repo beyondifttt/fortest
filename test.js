@@ -1,1 +1,0 @@
-	window.alert('JavaScriptファイル（test.js） \n 実行結果');
